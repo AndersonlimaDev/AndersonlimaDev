@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonlimaramos/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/blvckzinho)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonlimaDev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/AndersonlimaDev/github-readme-stats)
+![AndersonlimaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonlimaDev&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonlimaDev&layout=compact)](https://github.com/AndersonlimaDev/github-readme-stats)
 
 ## • Tecnologias que estudo no dia a dia!
 
