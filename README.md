@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonlimaramos/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/blvckzinho)
 
-[![Anderson's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AndersonlimaDev&show_icons=true&theme=dark#gh-dark-mode-only)]((https://github.com/AndersonlimaDev/github-readme)-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonlimaDev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/AndersonlimaDev/github-readme-stats)
+
 ## • Tecnologias que estudo no dia a dia!
 
 <div style="display: inline_block"><br>
@@ -19,7 +20,3 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></div>
-    
-<div><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonlimaDev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/AndersonlimaDev/github-readme-stats)</div>
