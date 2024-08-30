@@ -1,5 +1,5 @@
 ### Olá, meu nome é Anderson Lima! ✌️
-###### 💻 Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade da Amazônia (UNAMA) Belém/PA <br><br>🎨 Bacharel em Design pela Faculdade de Estudos Avançados do Pará (FEAPA)- 2014 <br><br> 🎨 Especialista em Design Gráfico, computação e multimídia pela Faculdade Estácio de Belém - 2019
+###### 💻 Sou Tecnólogo de Análise e Desenvolvimento de Sistemas pela Universidade da Amazônia (UNAMA) Belém/PA <br><br>🎨 Bacharel em Design pela Faculdade de Estudos Avançados do Pará (FEAPA)- 2014 <br><br> 🎨 Especialista em Design Gráfico, computação e multimídia pela Faculdade Estácio de Belém - 2019
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/limacmyk)
 [![WhatsApp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonramos816@gmail.com)
